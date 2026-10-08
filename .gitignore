@@ -1,0 +1,13 @@
+# Your personal files stay on your computer, never in git
+.env
+config.json
+answers.json
+resume.*
+
+# Working data
+data/
+logs/
+reports/
+latest.html
+tracker.csv
+__pycache__/
